@@ -1,0 +1,3 @@
+create a file config.py
+create a variable shown below:
+apiKey = "----apikey value----"
